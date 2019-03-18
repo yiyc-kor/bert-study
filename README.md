@@ -1,3 +1,7 @@
+# !!! it is just repository for private study
+
+refer site: https://github.com/google-research/bert
+
 # BERT
 
 **\*\*\*\*\* New February 7th, 2019: TfHub Module \*\*\*\*\***
