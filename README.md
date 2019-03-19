@@ -2,6 +2,15 @@
 
 refer site: https://github.com/google-research/bert
 
+refer others: 
+
+http://mlgalaxy.blogspot.com/2019/01/bert-multilingual-model-korquad-part-1.html
+
+https://github.com/HYU-AILAB/ai-seminar
+
+https://mc.ai/a-guide-to-simple-text-classification-with-bert/
+
+
 # BERT
 
 **\*\*\*\*\* New February 7th, 2019: TfHub Module \*\*\*\*\***
